@@ -1,1 +1,1 @@
-## Major Project "Churn Prediction and ROI Backend Retention" 
+## Major Project "Churn Prediction and ROI Backend Retention Playbook"
